@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/travelyo-app/static/css/main.68e3df3c.chunk.css",
-    "main.js": "/travelyo-app/static/js/main.83bfa1be.chunk.js",
-    "main.js.map": "/travelyo-app/static/js/main.83bfa1be.chunk.js.map",
+    "main.js": "/travelyo-app/static/js/main.d2475a78.chunk.js",
+    "main.js.map": "/travelyo-app/static/js/main.d2475a78.chunk.js.map",
     "runtime-main.js": "/travelyo-app/static/js/runtime-main.0c6530a7.js",
     "runtime-main.js.map": "/travelyo-app/static/js/runtime-main.0c6530a7.js.map",
     "static/css/2.5ffa1744.chunk.css": "/travelyo-app/static/css/2.5ffa1744.chunk.css",
     "static/js/2.4595be4d.chunk.js": "/travelyo-app/static/js/2.4595be4d.chunk.js",
     "static/js/2.4595be4d.chunk.js.map": "/travelyo-app/static/js/2.4595be4d.chunk.js.map",
     "index.html": "/travelyo-app/index.html",
-    "precache-manifest.7e5deb7052092310b85847b909edb7ec.js": "/travelyo-app/precache-manifest.7e5deb7052092310b85847b909edb7ec.js",
+    "precache-manifest.19e3a3210c49f9e01803c2b92d7c8b68.js": "/travelyo-app/precache-manifest.19e3a3210c49f9e01803c2b92d7c8b68.js",
     "service-worker.js": "/travelyo-app/service-worker.js",
     "static/css/2.5ffa1744.chunk.css.map": "/travelyo-app/static/css/2.5ffa1744.chunk.css.map",
     "static/css/main.68e3df3c.chunk.css.map": "/travelyo-app/static/css/main.68e3df3c.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.5ffa1744.chunk.css",
     "static/js/2.4595be4d.chunk.js",
     "static/css/main.68e3df3c.chunk.css",
-    "static/js/main.83bfa1be.chunk.js"
+    "static/js/main.d2475a78.chunk.js"
   ]
 }

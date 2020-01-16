@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/travelyo-app/precache-manifest.7e5deb7052092310b85847b909edb7ec.js"
+  "/travelyo-app/precache-manifest.19e3a3210c49f9e01803c2b92d7c8b68.js"
 );
 
 self.addEventListener('message', (event) => {

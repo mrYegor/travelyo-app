@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c4e415905ef895b23a0dfe9e28d5d54d",
+    "revision": "d239e09b88d784e0c0d0b9850bafb35d",
     "url": "/travelyo-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/travelyo-app/static/css/2.5ffa1744.chunk.css"
   },
   {
-    "revision": "0748edc17727768f1edd",
+    "revision": "39b8e1651db9cd392c21",
     "url": "/travelyo-app/static/css/main.68e3df3c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/travelyo-app/static/js/2.4595be4d.chunk.js.LICENSE"
   },
   {
-    "revision": "0748edc17727768f1edd",
-    "url": "/travelyo-app/static/js/main.83bfa1be.chunk.js"
+    "revision": "39b8e1651db9cd392c21",
+    "url": "/travelyo-app/static/js/main.d2475a78.chunk.js"
   },
   {
     "revision": "8f01c2284b108cc2f012",
